@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ReaPack index snippet for Haptik Audio.
+  Merge this into your master index.xml or host as a remote index.
+  Update the GitHub raw URLs to match your published repository.
+-->
+<index version="1" name="Haptik Audio" tag="Haptik Audio">
+  <metadata>
+    <description>REAPER scripts by Haptik Audio</description>
+    <link rel="homepage">https://github.com/haptikaudio/ucs-multi-toolkit</link>
+  </metadata>
+  <category name="Workflow">
+    <reapack name="UCS Multi Toolkit" type="script" desc="UCS naming and batch workflow for REAPER">
+      <metadata>
+        <description>UCS Multi Toolkit — space, glue, normalize, rename, and render with UCS field suggest and workflow presets.</description>
+        <link rel="homepage">https://github.com/haptikaudio/ucs-multi-toolkit</link>
+        <link rel="donation">https://haptikaudio.com</link>
+      </metadata>
+      <version name="1.0.0" time="1750000000">
+        <changelog><![CDATA[Initial public release]]></changelog>
+        <source main="main">https://github.com/haptikaudio/ucs-multi-toolkit/raw/main/UCS%20Multi%20Toolkit.lua</source>
+        <source file="Haptik_Audio_logo.png">https://github.com/haptikaudio/ucs-multi-toolkit/raw/main/Haptik_Audio_logo.png</source>
+      </version>
+    </reapack>
+  </category>
+</index>
