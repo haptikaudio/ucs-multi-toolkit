@@ -56,6 +56,16 @@ git push origin v1.0.0
 
 Then on GitHub: **Releases → Draft a new release** from tag `v1.0.0` and paste the `CHANGELOG.md` section.
 
-## 4. ReaPack (optional)
+## 4. ReaPack
 
-Host `reapack-index.xml` in a ReaPack remote, or merge it into your existing Haptik Audio index. Update raw URLs if the repo path differs from `haptikaudio/ucs-multi-toolkit`.
+Users import this repository URL in **Extensions → ReaPack → Import repositories**:
+
+```
+https://github.com/haptikaudio/ucs-multi-toolkit/raw/main/index.xml
+```
+
+Package files live in `Workflow/`. When releasing a new version:
+
+1. Update `@version` and `@changelog` in `Workflow/UCS Multi Toolkit.lua`
+2. Update `index.xml` with the new version entry and commit hash URLs (or run `reapack-index` if installed)
+3. Commit, push, and tag the release

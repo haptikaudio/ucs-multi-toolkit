@@ -20,14 +20,27 @@ By [Haptik Audio](https://haptikaudio.com).
 
 ## Installation
 
+### ReaPack (recommended)
+
+1. In REAPER: **Extensions → ReaPack → Import repositories**
+2. Paste this URL and click **OK**:
+
+   ```
+   https://github.com/haptikaudio/ucs-multi-toolkit/raw/main/index.xml
+   ```
+
+3. **Extensions → ReaPack → Browse packages**
+4. Search for **UCS Multi Toolkit** (category: Workflow) and install.
+5. Run from the Action List: **UCS Multi Toolkit**.
+
+ReaPack installs both the script and logo into your REAPER Scripts folder automatically.
+
 ### Manual
 
-1. Copy the **entire** `UCS Multi Toolkit` folder into your REAPER Scripts directory:
-   - macOS: `~/Library/Application Support/REAPER/Scripts/`
-   - Windows: `%APPDATA%\REAPER\Scripts\`
-2. Confirm both files are present in the same folder:
-   - `UCS Multi Toolkit.lua`
-   - `Haptik_Audio_logo.png`
+1. Download `Workflow/UCS Multi Toolkit.lua` and `Workflow/Haptik_Audio_logo.png` from this repo.
+2. Place **both files in the same folder** inside your REAPER Scripts directory, e.g.:
+   - macOS: `~/Library/Application Support/REAPER/Scripts/UCS Multi Toolkit/`
+   - Windows: `%APPDATA%\REAPER\Scripts\UCS Multi Toolkit\`
 3. In REAPER: **Actions → Show action list → ReaScript → Load…**
 4. Select `UCS Multi Toolkit.lua` and click **Run**.
 

@@ -8,8 +8,8 @@
 --
 --   Requires REAPER 6.0 or newer. No SWS or ReaImGui required.
 --
---   Install both files from the package into the same folder:
---   UCS Multi Toolkit.lua and Haptik_Audio_logo.png
+--   Install via ReaPack (recommended) or copy Workflow/UCS Multi Toolkit.lua
+--   and Haptik_Audio_logo.png into the same folder.
 -- @link https://github.com/haptikaudio/ucs-multi-toolkit
 -- @changelog
 --   v1.0.0 Initial public release
