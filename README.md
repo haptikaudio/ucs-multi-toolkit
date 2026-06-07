@@ -26,7 +26,7 @@ By [Haptik Audio](https://haptikaudio.com).
 2. Paste this URL and click **OK**:
 
    ```
-   https://github.com/haptikaudio/ucs-multi-toolkit/raw/main/index.xml
+   https://raw.githubusercontent.com/haptikaudio/ucs-multi-toolkit/main/index.xml
    ```
 
 3. **Extensions → ReaPack → Browse packages**

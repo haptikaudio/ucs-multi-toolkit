@@ -4,7 +4,7 @@ Run through this list on a **fresh REAPER profile** (or after clearing `UCSAudio
 
 ## Install
 
-- [ ] ReaPack import URL loads: `https://github.com/haptikaudio/ucs-multi-toolkit/raw/main/index.xml`
+- [ ] ReaPack import URL loads: `https://raw.githubusercontent.com/haptikaudio/ucs-multi-toolkit/main/index.xml`
 - [ ] ReaPack install places script + logo in the same folder
 - [ ] Both `UCS Multi Toolkit.lua` and `Haptik_Audio_logo.png` load without errors
 - [ ] Logo appears in the window header

@@ -61,7 +61,7 @@ Then on GitHub: **Releases → Draft a new release** from tag `v1.0.0` and paste
 Users import this repository URL in **Extensions → ReaPack → Import repositories**:
 
 ```
-https://github.com/haptikaudio/ucs-multi-toolkit/raw/main/index.xml
+https://raw.githubusercontent.com/haptikaudio/ucs-multi-toolkit/main/index.xml
 ```
 
 Package files live in `Workflow/`. When releasing a new version:

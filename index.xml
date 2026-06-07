@@ -17,8 +17,8 @@ https://haptikaudio.com]]></description>
       <version name="1.0.0" time="1780844648">
         <changelog><![CDATA[Initial public release]]></changelog>
         <author>Haptik Audio</author>
-        <source main="main">https://github.com/haptikaudio/ucs-multi-toolkit/raw/main/Workflow/UCS%20Multi%20Toolkit.lua</source>
-        <source file="Haptik_Audio_logo.png">https://github.com/haptikaudio/ucs-multi-toolkit/raw/main/Workflow/Haptik_Audio_logo.png</source>
+        <source main="main">https://raw.githubusercontent.com/haptikaudio/ucs-multi-toolkit/main/Workflow/UCS%20Multi%20Toolkit.lua</source>
+        <source file="Haptik_Audio_logo.png">https://raw.githubusercontent.com/haptikaudio/ucs-multi-toolkit/main/Workflow/Haptik_Audio_logo.png</source>
       </version>
     </reapack>
   </category>
