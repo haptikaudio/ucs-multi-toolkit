@@ -1,6 +1,6 @@
 -- @description UCS Multi Toolkit
 -- @author Haptik Audio
--- @version 1.0.0
+-- @version 1.0.1
 -- @about
 --   UCS naming and batch workflow for REAPER: space, glue, normalize, rename,
 --   and render. Includes UCS field suggest, workflow presets, pre-flight checks,
@@ -12,6 +12,7 @@
 --   and Haptik_Audio_logo.png into the same folder.
 -- @link https://github.com/haptikaudio/ucs-multi-toolkit
 -- @changelog
+--   v1.0.1 Fix ReaPack Action List registration
 --   v1.0.0 Initial public release
 -- @provides
 --   [main] .
@@ -2785,7 +2786,7 @@ local function font_small() gfx.setfont(1, UI_FONT, 10) end
 
 -- ─── BRANDING ────────────────────────────────────────────────
 local TOOL_TITLE = "UCS Multi Toolkit"
-local TOOL_VERSION = "1.0.0"
+local TOOL_VERSION = "1.0.1"
 local LOGO_IMG = 2
 local LOGO_FILE = "Haptik_Audio_logo.png"
 local logo_loaded = false

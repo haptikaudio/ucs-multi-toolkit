@@ -31,9 +31,9 @@ By [Haptik Audio](https://haptikaudio.com).
 
 3. **Extensions → ReaPack → Browse packages**
 4. Search for **UCS Multi Toolkit** (category: Workflow) and install.
-5. Run from the Action List: **UCS Multi Toolkit**.
+5. Run from the Action List: search **UCS Multi Toolkit** (shortcut: **?** or **F4**).
 
-ReaPack installs both the script and logo into your REAPER Scripts folder automatically.
+ReaPack installs both the script and logo into `Scripts/Haptik Audio/Workflow/`. After install or update, open the Action List and filter by `UCS` — the script must have a `.lua` filename to appear automatically.
 
 ### Manual
 

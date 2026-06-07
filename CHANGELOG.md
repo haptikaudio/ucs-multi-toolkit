@@ -2,6 +2,12 @@
 
 All notable changes to UCS Multi Toolkit are documented here.
 
+## [1.0.1] — 2026-06-07
+
+### Fixed
+
+- ReaPack package name now includes `.lua` so the script registers in REAPER's Action List after install
+
 ## [1.0.0] — 2026-06-07
 
 Initial public release.
