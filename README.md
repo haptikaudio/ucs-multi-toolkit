@@ -48,16 +48,6 @@ ReaPack installs both the script and logo into `Scripts/Haptik Audio/Workflow/`.
 
 Use the **DOCK** button in the script window header, or assign the script to a toolbar/dock slot via the Actions list.
 
-### Upgrading from `UCS Audio Tool.lua`
-
-If you previously used the old single-file install:
-
-1. Install the new folder as above.
-2. Update your action shortcut to point at `UCS Multi Toolkit/UCS Multi Toolkit.lua`.
-3. Remove the old `UCS Audio Tool.lua` when ready (a legacy redirect stub may still be present).
-
-Your settings are stored under the `UCSAudioTool` ExtState section and will carry over.
-
 ## Quick start
 
 1. Select one or more media items.
