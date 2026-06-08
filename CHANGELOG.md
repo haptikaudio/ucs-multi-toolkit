@@ -2,6 +2,13 @@
 
 All notable changes to UCS Multi Toolkit are documented here.
 
+## [1.0.2] — 2026-06-07
+
+### Changed
+
+- Replaced simplified category list with full **UCS v8.2.1** data (82 categories, 753 subcategories)
+- Updated smart-suggest keyword hints and compound matchers for the official CatShort codes
+
 ## [1.0.1] — 2026-06-07
 
 ### Fixed

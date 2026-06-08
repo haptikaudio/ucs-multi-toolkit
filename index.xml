@@ -14,6 +14,12 @@ https://haptikaudio.com]]></description>
         <link rel="homepage">https://github.com/haptikaudio/ucs-multi-toolkit</link>
         <link rel="donation">https://haptikaudio.com</link>
       </metadata>
+      <version name="1.0.2" time="1780857600">
+        <changelog><![CDATA[Full UCS v8.2.1 category and subcategory list (82 categories, 753 subcategories). Updated smart-suggest keyword hints.]]></changelog>
+        <author>Haptik Audio</author>
+        <source main="main">https://raw.githubusercontent.com/haptikaudio/ucs-multi-toolkit/main/Workflow/UCS%20Multi%20Toolkit.lua</source>
+        <source file="Haptik_Audio_logo.png">https://raw.githubusercontent.com/haptikaudio/ucs-multi-toolkit/main/Workflow/Haptik_Audio_logo.png</source>
+      </version>
       <version name="1.0.1" time="1780846200">
         <changelog><![CDATA[Fix ReaPack install filename so the script registers in the Action List (.lua extension).]]></changelog>
         <author>Haptik Audio</author>
